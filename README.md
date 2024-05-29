@@ -21,7 +21,7 @@ Arch Linux, macOS, Manjaro Linux, Windows
 SQL, MySQL, PostgreSQL
 
 ---
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Watcheslav&show_icons=true&hide_border=true" />
+
 <h3>My Repositories</h3>
 <table width=100%>
   <thead align="center">
@@ -45,7 +45,7 @@ SQL, MySQL, PostgreSQL
 <br />
 
 ---
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Watcheslav&show_icons=true&hide_border=true" />
 <!--
 **Watcheslav/Watcheslav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
