@@ -34,7 +34,7 @@ SQL, MySQL, PostgreSQL
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Watcheslav/practicum-projects"><b>Yandex.Practicum Data Science projects</b></a></td>
+      <td><a href="https://github.com/Watcheslav/practicum-projects"><b>My DS projects</b></a></td>
       <td><a href="https://github.com/Watcheslav/practicum-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Watcheslav/practicum-projects?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/Watcheslav/practicum-projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Watcheslav/practicum-projects?style=flat-square&labelColor=343b41"/></a></td>
 </tr>
